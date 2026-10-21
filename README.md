@@ -20,29 +20,33 @@ I'm especially passionate about learning Linux and its internals, and I hope to 
 Thanks for stopping by!
 
 
-### Cloud & Virtualization
+### Languages
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+### Infrastructure & DevOps
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![KVM](https://img.shields.io/badge/KVM-CC0000?style=flat-square&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-### Cybersecurity & Networking
+### Security & Monitoring
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Suricata](https://img.shields.io/badge/Suricata-FF6600?style=flat-square)
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square)
+![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=flat-square&logo=elastic&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+### DevSecOps Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square)
 ![TruffleHog](https://img.shields.io/badge/TruffleHog-EA580C?style=flat-square)
 
-### Monitoring & Observability
-
-![Elastic Stack](https://img.shields.io/badge/Elastic%20Stack-005571?style=flat-square&logo=elastic&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-### CI/CD
-
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
