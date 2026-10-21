@@ -1,11 +1,6 @@
 # Hi, I'm Michael :wave:
 
-I'm currently a Sophomore at Augusta University studying cybersecurity.
-
-## Quick overview
-Hello, and thanks for taking the time to view my profile!
-
-I'm currently pursuing a bachelor's degree in Cybersecurity at AU. My primary interests are Linux system administration, DevOps, and DevSecOps. I currently hold the CompTIA Security+ certification and plan to pursue my RHCSA in the future.
+I'm a sophomore at Augusta University pursuing a bachelor's degree in Cybersecurity. My primary interests are Linux system administration, DevOps, and DevSecOps. I currently hold the CompTIA Security+ certification and plan to pursue my RHCSA in the future.
 
 I enjoy programming in both Python and Go. While I'm still developing my skills in both languages, I genuinely enjoy the challenge of working through a problem until everything finally comes together.
 
@@ -13,12 +8,15 @@ I'm especially passionate about learning Linux and its internals, and I hope to 
 
 Thanks for stopping by!
 
+## Technical Stack
 
-### Languages
+### Languages & Configuration
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
 
 ### Infrastructure & DevOps
 
