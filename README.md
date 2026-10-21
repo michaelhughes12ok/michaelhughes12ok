@@ -15,7 +15,7 @@ Thanks for stopping by!
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
 
 ### Infrastructure & DevOps
@@ -32,13 +32,13 @@ Thanks for stopping by!
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Suricata](https://img.shields.io/badge/Suricata-FF6600?style=flat-square)
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square)
-![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=flat-square&logo=elastic&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=flat-square&logo=elasticstack&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 ### DevSecOps Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=trivy&logoColor=white)
 ![TruffleHog](https://img.shields.io/badge/TruffleHog-EA580C?style=flat-square)
 
 
