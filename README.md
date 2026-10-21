@@ -2,12 +2,6 @@
 
 I'm currently a Sophomore at Augusta University studying cybersecurity.
 
-
-<details>
-<summary>
-  More stuff about me
-</summary>
-
 ## Quick overview
 Hello, and thanks for taking the time to view my profile!
 
